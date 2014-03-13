@@ -1,0 +1,43 @@
+[
+    {
+        "pk": 1,
+        "link": "/#/",
+        "css": "col-md-2 app-logo hidden-xs",
+        "title": "Hello, it's all about me, Nikolay Garanko"
+    },
+    {
+        "pk": 4,
+        "content": "meh, meh, blah Maunasda sdasa",
+        "link": "/#/posts/2/",
+        "css": "col-md-2 app-cont-block",
+        "title": "Lots of text here"
+    },
+    {
+        "pk": 2,
+        "image": "http://distilleryimage3.ak.instagram.com/2d3eb436a78611e3aef612ce171e3ceb_8.jpg",
+        "css": "col-md-6 app-huge-pic",
+        "title": "First warm day"
+    },
+    {
+        "pk": 3, "image": "/static/img/huge_2.jpg",
+        "content": "Some more related text in here, hopefully will be properly rendered.",
+        "css": "col-md-2 app-cont-block", "title": "Pic and some text"
+    }, {
+        "pk": 5,
+        "image": "/static/img/huge_2.jpg",
+        "css": "col-md-4 app-cont-block",
+        "title": "Pic and some text"
+    },
+    {
+        "pk": 3,
+        "content": "Some more related text in here, hopefully will be properly rendered.",
+        "image": "/static/img/huge_2.jpg",
+        "css": "col-md-2 app-cont-block",
+        "title": "Pic and some text"
+    }, {
+        "pk": 6,
+        "image": "/static/img/huge_3.jpg",
+        "css": "col-md-6 app-huge-pic",
+        "title": "Huge pic"
+    }
+]

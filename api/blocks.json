@@ -1,0 +1,49 @@
+[
+    {
+        "pk": 1,
+        "link": "/#/",
+        "image": "http://distilleryimage3.ak.instagram.com/bf9bf20a762e11e3a8c912d80cc6bccf_8.jpg",
+        "css": "col-md-2 app-logo hidden-xs",
+        "title": "Hello, it's all about me, Nikolay Garanko.<br /><small>Yet another silly Ukrainian dude.</small>",
+        "content": "<small>Ah yes, I like coding.</small>"
+    },
+    {
+        "pk": 4,
+        "title": "About me",
+        "content": "I'm developer. That's it. Mainly pythonist, do like Erlang and sometimes Javascript.<br /><small>Getting crazy when doing interesting things, diving into problem unless it's resolved. And I'm very much lazy when things are boring.</small>",
+        "link": "/#/",
+        "css": "col-md-2 app-cont-block app-block-about-me"
+    },
+    {
+        "pk": 2,
+        "image": "/static/img/workspace.jpg",
+        "css": "col-md-6 app-huge-pic app-huge-pic-1",
+        "title": "Sometimes I'm working."
+    },
+    {
+        "pk": 3,
+        "image": "http://distilleryimage0.ak.instagram.com/1eba74d84fa511e3b3581209c350cf7c_8.jpg",
+        "title": "Family stuff",
+        "link": "/#/",
+        "content": "It's most important part of my life.<br />Love my wife and son.<small>Mostly boring happy family pics here.<br />You can skip this.</small>",
+        "css": "col-md-2 app-cont-block app-block-family"
+    }, {
+        "pk": 5,
+        "image": "/static/img/sport.jpg",
+        "css": "col-md-4 app-cont-block",
+        "title": "I like crazy sports",
+        "content": "Yeah, I'm crappy photographer, but I don't really care."
+    },
+    {
+        "pk": 3,
+        "content": "Sure, no prob, send your spam here: <address><a href='mailto:#'>ngaranko@gmail.com</a></address>",
+        "image": "/static/img/huge_2.jpg",
+        "css": "col-md-2 app-cont-block",
+        "title": "Wanna contact me?"
+    }, {
+        "pk": 6,
+        "image": "/static/img/beach.jpg",
+        "css": "col-md-6 app-huge-pic app-huge-pic-2",
+        "title": "Sometimes not working."
+    }
+]

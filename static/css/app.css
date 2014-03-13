@@ -1,0 +1,53 @@
+.row {
+    margin: 0px;
+    padding: 0px;
+}
+.app-logo, .navbar {
+}
+
+.app-block {
+    padding: 1px;
+}
+.app-block-content {
+    border: 1px solid grey;
+
+}
+
+.app-block-content h2, .app-block-content p {
+    padding: 9px;
+    margin: 0px;
+}
+
+.app-logo .app-block-content,
+.app-huge-pic .app-block-content {
+    border: 0px;
+}
+
+.app-huge-pic {
+}
+
+.app-huge-pic h2 {
+    position: absolute;
+    top: 10px;
+    left: 35%;
+}
+
+.app-huge-pic div.ng-scope, .app-huge-pic div.row {
+    height: 100%;
+}
+
+.app-huge-pic-1 h2,
+.app-huge-pic-2 h2 {
+    padding-right: 50px;
+    text-align: right;
+    color: rgba(255, 255, 255, 0.9);
+}
+.app-huge-pic-2 h2 {
+    left: 20%;
+}
+@media (min-width: @screen-lg-min) {
+    .app-block-about-me .app-block-content,
+    .app-block-family .app-block-content {
+        min-height: 475px;
+    }
+}
