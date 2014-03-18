@@ -29,7 +29,7 @@
         "css": "col-md-2 app-cont-block app-block-family"
     }, {
         "pk": 5,
-        "image": "/static/img/sport.jpg",
+        "image": "/static/img/sport2.jpg",
         "css": "col-md-4 app-cont-block",
         "title": "I like crazy sports",
         "content": "Yeah, I'm crappy photographer, but I don't really care."
@@ -42,7 +42,7 @@
         "title": "Wanna contact me?"
     }, {
         "pk": 6,
-        "image": "/static/img/beach.jpg",
+        "image": "/static/img/beach2.jpg",
         "css": "col-md-6 app-huge-pic app-huge-pic-2",
         "title": "Sometimes not working."
     }
